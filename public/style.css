@@ -16,5 +16,8 @@ html {
   h1, h2, h3, h4, h5, h6, p, ul {
     margin: 0;
     padding: 0;
+  }
+  body{
+    background:url(1d155ea239b39db9bd0b17107212a188.jpg)
   }body {
   color: red; }
