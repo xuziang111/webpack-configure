@@ -42,7 +42,7 @@ module.exports = {
                 use: ExtractTextPlugin.extract({
                     fallback: "style-loader",
                     use: [
-                        "css-loader", // translates CSS into CommonJS
+                        "css-loader",// translates CSS into CommonJS
                         "sass-loader",
                         "postcss-loader" // compiles Sass to CSS, using Node Sass by default
                     ]
@@ -54,7 +54,9 @@ module.exports = {
                   {
                     loader: 'url-loader',
                     options: {
-                      limit: 8192
+                      limit: 8192,
+                      name: 'img/[name].[hash:7].[ext]',
+                      publicPath:'/public/'
                     }
                   }
                 ]
@@ -62,6 +64,6 @@ module.exports = {
         ]
     },
     plugins: [
-        new ExtractTextPlugin("style.css")
+        new ExtractTextPlugin("css/style.css")
       ]
   }

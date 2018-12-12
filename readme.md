@@ -5,3 +5,4 @@ sass-loader node-sass处理scss
 postcss-loader autoprefixer给css加兼容前缀  
 extract-text-webpack-plugin@next来分离css单独打包  
 webpack-dev-server来实时预览  
+url-loader file-loader来处理图片url  

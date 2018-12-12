@@ -148,9 +148,9 @@ eval("// removed by extract-text-webpack-plugin//# sourceURL=[module]\n//# sourc
   !*** ./app/shadiao.jpg ***!
   \*************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-eval("module.exports = __webpack_require__.p + \"1d155ea239b39db9bd0b17107212a188.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hcHAvc2hhZGlhby5qcGc/MmIxNCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxpQkFBaUIscUJBQXVCIiwiZmlsZSI6Ii4vYXBwL3NoYWRpYW8uanBnLmpzIiwic291cmNlc0NvbnRlbnQiOlsibW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArIFwiMWQxNTVlYTIzOWIzOWRiOWJkMGIxNzEwNzIxMmExODguanBnXCI7Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./app/shadiao.jpg\n");
+eval("module.exports = \"/public/img/shadiao.1d155ea.jpg\";//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hcHAvc2hhZGlhby5qcGc/MmIxNCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiIuL2FwcC9zaGFkaWFvLmpwZy5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gXCIvcHVibGljL2ltZy9zaGFkaWFvLjFkMTU1ZWEuanBnXCI7Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./app/shadiao.jpg\n");
 
 /***/ }),
 
